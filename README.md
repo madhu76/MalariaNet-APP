@@ -1,5 +1,3 @@
-The project was unded by JNTUH under TEQIP-III Scheme. Lalith Bharadwaj Baru, Rohit Boddeda and Akshay Shilhora were worked as reseach assistant in the project.
-
 # Website [Live](https://malaria-app.netlify.app/)
 ## This Website is for this  [Paper]()
 *For more information on the model and how we constructed the Deeplearning Model Refer the paper*
