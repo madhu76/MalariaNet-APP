@@ -1,6 +1,4 @@
-About project
-The project was unded by JNTUH under TEQIP-III Scheme.
-Research Assistant Students: Lalith Bharadwaj Baru, Rohit Boddeda, Akshay Shilhora
+The project was unded by JNTUH under TEQIP-III Scheme. Lalith Bharadwaj Baru, Rohit Boddeda and Akshay Shilhora were worked as reseach assistant in the project.
 
 # Website [Live](https://malaria-app.netlify.app/)
 ## This Website is for this  [Paper]()
